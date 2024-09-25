@@ -18,6 +18,8 @@ class GetMinMax{
 
         System.out.println(max+" maximum");
         System.out.println(min+" minimum");
+
+        
     
 
    }
